@@ -1,0 +1,23 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,75..100,300..800;1,75..100,300..800&display=swap');
+
+
+/* Share Styles */
+
+body{
+    font-family: "Open Sans", sans-serif;
+}
+
+
+/* Nav Styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-title{
+font-weight: 800;
+font-style: normal;
+color: #181818;
+font-size: 45px;
+}
